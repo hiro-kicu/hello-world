@@ -1,8 +1,10 @@
 body {
   width: 800px;
   margin: auto;
-  background-color: #dddddd;
+  background-color: #aaaaaa;
 }
 
 #wrapper {
+  width: 760;
+  margin: auto;
   background-color: #ffffff;
